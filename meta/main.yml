@@ -2,7 +2,7 @@ galaxy_info:
   author: RiFi2k
   description: Setup ngx_pagespeed on a default NGINX mainline install with a dynamic module
 
-  license: license (BSD)
+  license: license (MIT)
 
   min_ansible_version: 1.2
 
