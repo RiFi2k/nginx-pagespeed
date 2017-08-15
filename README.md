@@ -1,7 +1,7 @@
 NGINX Pagespeed Dynamic Module
 =========
 
-A brief description of the role goes here.
+Ansible role for adding ngx_pagespeed to Trellis
 
 Requirements
 ------------
